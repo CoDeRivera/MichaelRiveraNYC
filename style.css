@@ -3,5 +3,6 @@
 }
 
 .title {
-   color: yellow
+   color: yellow;
+   margin: 0 auto;
 }
